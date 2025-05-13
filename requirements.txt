@@ -1,0 +1,6 @@
+speechrecognition
+pyaudio
+pyperclip
+pyautogui
+pystray
+Pillow
